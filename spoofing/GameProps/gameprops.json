@@ -1,0 +1,15 @@
+{
+    "PACKAGES_M11": [
+        "com.ea.gp.apexlegendsmobilefps",
+        "com.mobilelegends.mi",
+        "com.levelinfinite.hotta.gp",
+        "com.supercell.clashofclans",
+        "com.vng.mlbbvn"
+    ],
+    "PACKAGES_M11_DEVICE": {
+        "BRAND": "",
+        "DEVICE": "",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "2107113SI"
+    }
+}

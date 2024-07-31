@@ -1,0 +1,30 @@
+{
+    // list of packages to spoof
+    "PACKAGES_M11": [
+        "com.ea.gp.apexlegendsmobilefps",
+        "com.mobilelegends.mi",
+        "com.levelinfinite.hotta.gp",
+        "com.supercell.clashofclans",
+        "com.vng.mlbbvn"
+    ],
+    // Device parameters to be used for spoofing PACKAGES_M11
+    "PACKAGES_M11_DEVICE": {
+        "BRAND": "",
+        "DEVICE": "",
+        "MANUFACTURER": "Xiaomi",
+        "MODEL": "2107113SI"
+    }
+    
+    // Add more packages here:
+    // sample package
+    "PACKAGES_SAMPLE": [
+        "com.android.youtube",
+    ],
+    // sample device parameters
+    "PACKAGES_SAMPLE_DEVICE": {
+        "BRAND": "Google",
+        "DEVICE": "husky",
+        "MANUFACTURER": "Google",
+        "MODEL": "Pixel 8 Pro"
+    }
+}
