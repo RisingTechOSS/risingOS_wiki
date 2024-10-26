@@ -1,12 +1,14 @@
 # RisingOS Wiki
 
 ## Guides
-- **GameProps JSON format:**
-    - [Sample GameProps JSON](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/GameProps/gameprops.json)
-    - [GameProps README](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/GameProps/README)
+- **Ai Assistant Guide:**
+    - [How to use the assistant](https://github.com/RisingOS-staging/risingOS_wiki/blob/fifteen/assistant/Risa/README.md)
+- **Per App Spoofing JSON format:**
+    - [Sample Per-application spoofing JSON](https://github.com/RisingOS-staging/risingOS_wiki/blob/fifteen/spoofing/Per_App_Spoofing/sample.json)
+    - [Per-application spoofing README](https://github.com/RisingOS-staging/risingOS_wiki/blob/fifteen/spoofing/Per_App_Spoofing/README)
 - **PlayIntegrity JSON format:**
-    - [Sample PlayIntergrityFix JSON](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/PlayIntergrity/pif.json)
-    - [PlayIntergrityFix README](https://github.com/RisingOS-staging/risingOS_wiki/blob/master/spoofing/PlayIntergrity/README)
+    - [Sample PlayIntergrityFix JSON](https://github.com/RisingOS-staging/risingOS_wiki/blob/fifteen/spoofing/PlayIntergrity/pif.json)
+    - [PlayIntergrityFix README](https://github.com/RisingOS-staging/risingOS_wiki/blob/fifteen/spoofing/PlayIntergrity/README)
 ---
 
 
