@@ -2,7 +2,11 @@
 
 ## Overview
 
-The AI Assistant is a beta feature designed to help users through voice commands, specifically aimed at supporting individuals with visual impairments. It allows for hands-free control of various device functions by recognizing voice commands.
+The AI Assistant is a beta feature designed to assist users, especially those with visual impairments, through voice commands. It provides hands-free control over various device functions by recognizing and responding to voice inputs.
+
+Risa is a system service specifically programmed to recognize a set of voice commands. Unlike other AI assistants, Risa does not collect data for machine learning purposes. It operates by utilizing system resources to execute commands. The system relies on Gemini’s API key to handle unprogrammed responses, connecting through the Gemini API without collecting or transmitting user data, except for the specific command or question the user provides.
+
+Risa can function without the Gemini API key for executing commands listed in the Supported Phrases section. However, for broader requests, such as general assistance, it requires Gemini to process the request. Additionally, Risa needs an internet connection and a text-to-speech engine to operate effectively.
 
 > **Note**: Currently, the AI Assistant only supports English. Contributions to add support for other languages and refinements are welcome! Feel free to submit a pull request if you’d like to contribute.
 
